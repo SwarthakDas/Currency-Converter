@@ -1,8 +1,8 @@
 
 const App = () => {
   return (
-    <div>
-      currency
+    <div className="bg-sky-950 h-screen">
+      
     </div>
   )
 }
